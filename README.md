@@ -4,11 +4,11 @@ Selamat datang di repositori kode sumber untuk website portofolio pribadi saya. 
 
 ---
 
-### ✨ [Lihat Live Demo](https://isakidev.my.id) <!-- Ganti dengan link portofolio Anda yang sudah di-hosting -->
+### ✨ [Lihat Live Demo](https://portofoliospaceisaki.vercel.app) <!-- Ganti dengan link portofolio Anda yang sudah di-hosting -->
 
 ---
 
-![Screenshot Portofolio]([https://raw.githubusercontent.com/Isaki-Prananda/Portofolio-Isaki-Prananda/main/assets/img/screenshot.png](https://github.com/Muhammad-Isaki-Prananda01/PortofolioSpace/blob/main/img/image_2025-08-01_113535407.png)) 
+![Screenshot Portofolio](https://github.com/Muhammad-Isaki-Prananda01/PortofolioSpace/blob/main/img/image_2025-08-01_113535407.png) 
 <!-- Ganti screenshot.png dengan nama file screenshot Anda -->
 
 ## 🚀 Fitur Utama
