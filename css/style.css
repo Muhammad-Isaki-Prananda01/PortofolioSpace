@@ -477,6 +477,16 @@ img {
 }
 .skill-item {
     margin-bottom: 20px;
+    /* 
+     * PERBAIKAN: Mencegah efek "getar" atau "kejang" saat kursor di tepi.
+     * Masalah ini terjadi jika state :hover menambahkan 'border', yang mengubah
+     * ukuran elemen dan menyebabkan pergeseran layout (layout shift).
+     * Solusinya adalah dengan memberikan border transparan pada state normal
+     * untuk memesan ruang yang sama. Sesuaikan '2px' jika ketebalan border
+     * pada :hover berbeda.
+    */
+    border: 2px solid transparent;
+    transition: border-color 0.3s ease, background-color 0.3s ease;
 }
 .skill-item:last-child {
     margin-bottom: 0;
