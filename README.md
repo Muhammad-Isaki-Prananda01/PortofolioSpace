@@ -8,7 +8,7 @@ Selamat datang di repositori kode sumber untuk website portofolio pribadi saya. 
 
 ---
 
-![Screenshot Portofolio](https://raw.githubusercontent.com/Isaki-Prananda/Portofolio-Isaki-Prananda/main/assets/img/screenshot.png) 
+![Screenshot Portofolio]([https://raw.githubusercontent.com/Isaki-Prananda/Portofolio-Isaki-Prananda/main/assets/img/screenshot.png](https://github.com/Muhammad-Isaki-Prananda01/PortofolioSpace/blob/main/img/image_2025-08-01_113535407.png)) 
 <!-- Ganti screenshot.png dengan nama file screenshot Anda -->
 
 ## 🚀 Fitur Utama
